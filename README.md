@@ -41,7 +41,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone [https://github.com/Ganeshmd.git](https://ganeshdangi.github.io/Ganeshmd-Portfolio/)
+git clone [https://github.com/GaneshDangi/Ganesh-Portfolio.git](https://github.com/GaneshDangi/Ganesh-Portfolio.git)
 
 # 2️⃣ Navigate to project directory
 cd Ganesh-Portfolio
@@ -53,7 +53,7 @@ npm install
 npm start or npm run dev
 ```
 
-Now open [[http://localhost:5173](http://localhost:5173/)] in your browser 🚀
+Now open [[http://localhost:5174](http://localhost:5174/)] in your browser 🚀
 
 ---
 
