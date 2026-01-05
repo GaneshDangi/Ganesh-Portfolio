@@ -2,13 +2,13 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[Ganesh-Portfolio]]](https://ganesh-dangi.vercel.app/)
+🌐 **Website:** [[[Ganesh-Portfolio]]](https://ganeshdangi.netlify.app/)
 
 🖼️ **Screenshots**
-<img width="1899" height="876" alt="image" src="https://github.com/user-attachments/assets/b8ed7633-2540-478a-a13d-effcc86c66f9" />
-<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/b6b1e054-0d3f-4824-a19c-2424d7314d28" />
-<img width="1896" height="873" alt="image" src="https://github.com/user-attachments/assets/1df8cf69-f151-411e-8f6c-6ff7d49017c1" />
-<img width="1897" height="871" alt="image" src="https://github.com/user-attachments/assets/368d7b16-0808-4221-94a4-913ab8864066" />
+<img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/00c07cc0-82af-4621-a05e-5db58070e725" />
+<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/6ea36c20-3c19-454f-992a-e4abadabae5d" />
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/0015f6b3-485e-4b68-960a-3efaadbb16e5" />
+<img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/854c750d-33c1-422d-8f0c-fc390e83e6e3" />
 ---
 
 ## 🚀 Features
@@ -44,7 +44,7 @@ To run this project locally:
 git clone [https://github.com/Ganeshmd.git](https://ganeshdangi.github.io/Ganeshmd-Portfolio/)
 
 # 2️⃣ Navigate to project directory
-cd Ganeshmd-portfolio
+cd Ganesh-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -68,7 +68,7 @@ If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 ## 🌟 Deployment
 
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
+Deployed seamlessly on **Netlify** for continuous integration and fast CDN delivery.
 Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---
