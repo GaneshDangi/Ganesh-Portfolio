@@ -104,7 +104,7 @@ export default function Home() {
           {/* Info Cards */}
           <motion.div className="info-cards">
             {[
-              { label: '📍 Location', value: 'Bilagi, Bagalkote, Karnataka'},
+              { label: '<i class="fa-regular fa-location-dot"></i> Location', value: 'Bilagi, Bagalkote, Karnataka'},
               { label: '💼 Expertise', value: 'AI/ML, Problem Solving' },
               { label: '📧 Contact', value: 'dangiganesh790@gmail.com' },
             ].map((info, i) => (
